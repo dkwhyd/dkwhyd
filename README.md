@@ -1,5 +1,5 @@
 ### Hello 👋
-I'm Diki Wahyudi, A Web Developer
+I'm Diki Wahyudi
 
 <p align="left">
 <a href="https://github.com/dkwhyd">
