@@ -1,5 +1,3 @@
-### Hello 👋
-I'm Diki Wahyudi
 
 <p align="center">
 <a href="https://github.com/dkwhyd">
